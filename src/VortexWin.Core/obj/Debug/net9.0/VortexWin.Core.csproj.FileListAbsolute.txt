@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Coding Projects\Vortex Win\src\VortexWin.Core\obj\Debug\net9.0\VortexWin.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Coding Projects\Vortex Win\src\VortexWin.Core\obj\Debug\net9.0\VortexWin.Core.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Coding Projects\Vortex Win\src\VortexWin.Core\obj\Debug\net9.0\VortexWin.Core.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Coding Projects\Vortex Win\src\VortexWin.Core\obj\Debug\net9.0\VortexWin.Core.csproj.CoreCompileInputs.cache
+c:\Users\Administrator\Documents\Coding Projects\Vortex Win\src\VortexWin.Core\obj\Debug\net9.0\VortexWin.Core.csproj.AssemblyReference.cache

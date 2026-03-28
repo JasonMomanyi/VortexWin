@@ -1,0 +1,13 @@
+﻿  Determining projects to restore...
+  All projects are up-to-date for restore.
+  VortexWin.Core -> c:\Users\Administrator\Documents\Coding Projects\Vortex Win\src\VortexWin.Core\bin\Debug\net9.0-windows\VortexWin.Core.dll
+  VortexWin.Tray -> c:\Users\Administrator\Documents\Coding Projects\Vortex Win\src\VortexWin.Tray\bin\Debug\net9.0-windows\VortexWin.Tray.dll
+  VortexWin.Service -> c:\Users\Administrator\Documents\Coding Projects\Vortex Win\src\VortexWin.Service\bin\Debug\net9.0-windows\VortexWin.Service.dll
+  VortexWin.Tests -> c:\Users\Administrator\Documents\Coding Projects\Vortex Win\tests\VortexWin.Tests\bin\Debug\net9.0-windows\VortexWin.Tests.dll
+  VortexWin.Settings -> c:\Users\Administrator\Documents\Coding Projects\Vortex Win\src\VortexWin.Settings\bin\Debug\net9.0-windows\VortexWin.Settings.dll
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:02.79

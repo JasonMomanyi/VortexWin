@@ -1,0 +1,12 @@
+c:\Users\Administrator\Documents\Coding Projects\Vortex Win\src\VortexWin.Core\bin\Debug\net9.0-windows\VortexWin.Core.deps.json
+c:\Users\Administrator\Documents\Coding Projects\Vortex Win\src\VortexWin.Core\bin\Debug\net9.0-windows\VortexWin.Core.dll
+c:\Users\Administrator\Documents\Coding Projects\Vortex Win\src\VortexWin.Core\bin\Debug\net9.0-windows\VortexWin.Core.pdb
+c:\Users\Administrator\Documents\Coding Projects\Vortex Win\src\VortexWin.Core\obj\Debug\net9.0-windows\VortexWin.Core.csproj.AssemblyReference.cache
+c:\Users\Administrator\Documents\Coding Projects\Vortex Win\src\VortexWin.Core\obj\Debug\net9.0-windows\VortexWin.Core.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Administrator\Documents\Coding Projects\Vortex Win\src\VortexWin.Core\obj\Debug\net9.0-windows\VortexWin.Core.AssemblyInfoInputs.cache
+c:\Users\Administrator\Documents\Coding Projects\Vortex Win\src\VortexWin.Core\obj\Debug\net9.0-windows\VortexWin.Core.AssemblyInfo.cs
+c:\Users\Administrator\Documents\Coding Projects\Vortex Win\src\VortexWin.Core\obj\Debug\net9.0-windows\VortexWin.Core.csproj.CoreCompileInputs.cache
+c:\Users\Administrator\Documents\Coding Projects\Vortex Win\src\VortexWin.Core\obj\Debug\net9.0-windows\VortexWin.Core.dll
+c:\Users\Administrator\Documents\Coding Projects\Vortex Win\src\VortexWin.Core\obj\Debug\net9.0-windows\refint\VortexWin.Core.dll
+c:\Users\Administrator\Documents\Coding Projects\Vortex Win\src\VortexWin.Core\obj\Debug\net9.0-windows\VortexWin.Core.pdb
+c:\Users\Administrator\Documents\Coding Projects\Vortex Win\src\VortexWin.Core\obj\Debug\net9.0-windows\ref\VortexWin.Core.dll
